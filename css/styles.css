@@ -70,10 +70,6 @@ text-decoration: none;
 
 .main-section {
     background-color: #2E2F42;
-    width: 1440px;
-height: 600px;
-top: 72px;
-gap: 0px;
 opacity: 0px;
 }
 
@@ -131,17 +127,17 @@ color: #434455;
 }
 
 .team-title {
-font-size: 36px;
 font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.02em;
 color: #2E2F42;
-line-height: 1.11; 
 text-align: center;
 text-transform: capitalize;
+font-size: 36px;
+line-height: 1.11;
 }
 
-.team-title {
+.team-subtitle {
 font-size: 20px;
 font-weight: 500;
 line-height: 24px;
