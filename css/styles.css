@@ -122,6 +122,10 @@ color: #434455;
     background-color: #F4F4FD;
 }
 
+.team {
+    background-color: #FFFFFF;
+}
+
 .team-section ul {
     list-style-type: none;
 }
